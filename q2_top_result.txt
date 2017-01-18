@@ -1,0 +1,300 @@
+ 2431  1   0% S     1      0K      0K  fg root     kworker/1:2
+ 1854  1   0% S    29 1289024K  45752K  fg radio    com.android.phone
+ 1192  1   0% S    10 130832K   9836K  fg media    /system/bin/mediaserver
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 1%, System 9%, IOW 0%, IRQ 0%
+User 7 + Nice 0 + Sys 53 + Idle 514 + IOW 0 + IRQ 0 + SIRQ 0 = 574
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  1   4% S     6  10288K    672K  fg root     /sbin/adbd
+ 1522  1   4% S    74 1452236K  99300K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+    6  1   0% S     1      0K      0K  fg root     kworker/u4:0
+    7  0   0% S     1      0K      0K  fg root     migration/0
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 4%, System 18%, IOW 14%, IRQ 0%
+User 19 + Nice 5 + Sys 104 + Idle 352 + IOW 84 + IRQ 0 + SIRQ 0 = 564
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1522  1   4% S    74 1402808K  90196K  fg system   system_server
+ 1187  0   4% S     6  10288K    768K  fg root     /sbin/adbd
+ 1831  0   1% S    40 1427744K  75044K  fg u0_a8    com.google.android.gms.persi
+stent
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1192  1   1% S    10 130840K  10300K  fg media    /system/bin/mediaserver
+ 2139  1   0% S    37 1570020K  78468K  fg u0_a8    com.google.android.gms
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+ 1182  0   0% S    13  55016K   3712K  fg system   /system/bin/surfaceflinger
+ 1918  1   0% S    13 1267456K  31860K  fg u0_a8    com.google.process.gapps
+ 1188  1   0% S    10  16308K   2096K  fg root     /system/bin/netd
+ 2350  0   0% S    12 1281260K  38388K  fg u0_a59   example.com.exampleproject
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 0%, System 8%, IOW 0%, IRQ 0%
+User 3 + Nice 0 + Sys 46 + Idle 511 + IOW 0 + IRQ 0 + SIRQ 0 = 560
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   4% S     6  10288K    692K  fg root     /sbin/adbd
+ 1522  1   3% S    74 1402808K  90196K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 1182  1   0% S    13  55016K   3712K  fg system   /system/bin/surfaceflinger
+ 1617  0   0% S    25 1318576K  71640K  fg u0_a14   com.android.systemui
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+ 1854  1   0% S    29 1289024K  45752K  fg radio    com.android.phone
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+    4  0   0% S     1      0K      0K  fg root     kworker/0:0
+ 1181  1   0% S     1   4144K   1308K  fg system   /system/bin/servicemanager
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+   16  1   0% S     1      0K      0K  fg root     kworker/u4:1
+  300  1   0% S     1      0K      0K  fg root     writeback
+
+
+
+User 1%, System 12%, IOW 4%, IRQ 0%
+User 8 + Nice 0 + Sys 69 + Idle 463 + IOW 24 + IRQ 0 + SIRQ 0 = 564
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   5% S     7  11320K    728K  fg root     /sbin/adbd
+ 1522  1   4% S    74 1402808K  89512K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   1% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 1918  1   0% S    13 1267456K  31716K  fg u0_a8    com.google.process.gapps
+ 2350  0   0% S    12 1281260K  38388K  fg u0_a59   example.com.exampleproject
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+ 3825  0   0% S    15 1395212K  57820K  fg u0_a8    com.google.android.gms.unsta
+ble
+ 1156  0   0% S     1      0K      0K  fg root     kworker/0:1H
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+ 1165  0   0% S     1      0K      0K  fg root     jbd2/vdc-8
+  643  1   0% S     1      0K      0K  fg root     kworker/u4:2
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+   16  1   0% S     1      0K      0K  fg root     kworker/u4:1
+
+
+
+User 1%, System 10%, IOW 0%, IRQ 0%
+User 8 + Nice 0 + Sys 58 + Idle 508 + IOW 0 + IRQ 0 + SIRQ 0 = 574
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   4% S     6  10288K    748K  fg root     /sbin/adbd
+ 1522  1   4% S    74 1402808K  89512K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 1854  1   0% S    29 1289024K  45752K  fg radio    com.android.phone
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+    7  0   0% S     1      0K      0K  fg root     migration/0
+    8  1   0% S     1      0K      0K  fg root     rcu_preempt
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 0%, System 10%, IOW 0%, IRQ 0%
+User 3 + Nice 0 + Sys 60 + Idle 520 + IOW 0 + IRQ 0 + SIRQ 0 = 583
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   4% S     6  10288K    672K  fg root     /sbin/adbd
+ 1522  1   3% S    74 1402808K  89512K  fg system   system_server
+ 1223  0   0% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 3825  0   0% S    15 1395120K  51596K  fg u0_a8    com.google.android.gms.unsta
+ble
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 2431  1   0% S     1      0K      0K  fg root     kworker/1:2
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+    8  1   0% S     1      0K      0K  fg root     rcu_preempt
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 1%, System 9%, IOW 0%, IRQ 0%
+User 6 + Nice 0 + Sys 53 + Idle 518 + IOW 0 + IRQ 0 + SIRQ 0 = 577
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   3% S     6  10288K    712K  fg root     /sbin/adbd
+ 1522  1   3% S    74 1402808K  89512K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+ 1182  1   0% S    13  55016K   3712K  fg system   /system/bin/surfaceflinger
+ 1617  0   0% S    25 1318576K  71680K  fg u0_a14   com.android.systemui
+ 2350  0   0% S    12 1281260K  38388K  fg u0_a59   example.com.exampleproject
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 0%, System 13%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 81 + Idle 503 + IOW 0 + IRQ 0 + SIRQ 0 = 585
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   4% S     7  11320K    740K  fg root     /sbin/adbd
+ 1522  1   4% S    74 1402808K  89512K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   1% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 1854  1   0% S    29 1289024K  45752K  fg radio    com.android.phone
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+    7  0   0% S     1      0K      0K  fg root     migration/0
+    8  1   0% S     1      0K      0K  fg root     rcu_preempt
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 0%, System 12%, IOW 0%, IRQ 0%
+User 5 + Nice 0 + Sys 70 + Idle 497 + IOW 0 + IRQ 0 + SIRQ 0 = 572
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  1   4% S     6  10288K    756K  fg root     /sbin/adbd
+ 1522  1   4% S    74 1402808K  89404K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+ 1854  0   0% S    29 1289024K  45752K  fg radio    com.android.phone
+ 2350  0   0% S    12 1281260K  38388K  fg u0_a59   example.com.exampleproject
+    4  0   0% S     1      0K      0K  fg root     kworker/0:0
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+   16  1   0% S     1      0K      0K  fg root     kworker/u4:1
+  300  1   0% S     1      0K      0K  fg root     writeback
+
+
+
+User 0%, System 10%, IOW 0%, IRQ 0%
+User 4 + Nice 0 + Sys 59 + Idle 508 + IOW 0 + IRQ 0 + SIRQ 0 = 571
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   4% S     6  10288K    668K  fg root     /sbin/adbd
+ 1522  1   4% S    74 1402808K  89404K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+ 2431  1   0% S     1      0K      0K  fg root     kworker/1:2
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+   16  1   0% S     1      0K      0K  fg root     kworker/u4:1
+
+
+
+User 0%, System 11%, IOW 0%, IRQ 0%
+User 4 + Nice 0 + Sys 69 + Idle 506 + IOW 0 + IRQ 0 + SIRQ 0 = 579
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   4% S     6  10288K    704K  fg root     /sbin/adbd
+ 1522  1   3% S    74 1402808K  89404K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 2350  0   0% S    12 1281260K  38388K  fg u0_a59   example.com.exampleproject
+ 1854  0   0% S    29 1289024K  45752K  fg radio    com.android.phone
+ 3624  1   0% R     1   3980K   1104K  fg root     top
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+    9  0   0% S     1      0K      0K  fg root     rcu_bh
+   10  1   0% S     1      0K      0K  fg root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 1%, System 16%, IOW 4%, IRQ 0%
+User 5 + Nice 2 + Sys 95 + Idle 457 + IOW 27 + IRQ 1 + SIRQ 0 = 587
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1522  0   5% S    75 1403980K  89432K  fg system   system_server
+ 1187  1   3% S     6  10288K    716K  fg root     /sbin/adbd
+ 2139  0   2% S    45 1578760K  82176K  fg u0_a8    com.google.android.gms
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   0% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 1831  0   0% S    40 1427784K  75080K  fg u0_a8    com.google.android.gms.persi
+stent
+ 3624  1   0% R     1   3980K   1320K  fg root     top
+ 1617  0   0% S    26 1319616K  71680K  fg u0_a14   com.android.systemui
+ 1180  1   0% S     1   4076K   1196K  fg root     /system/bin/lmkd
+ 1918  1   0% S    13 1267456K  31920K  fg u0_a8    com.google.process.gapps
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+
+
+
+User 1%, System 12%, IOW 0%, IRQ 0%
+User 7 + Nice 0 + Sys 74 + Idle 493 + IOW 0 + IRQ 0 + SIRQ 0 = 574
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1187  0   5% D     7  10288K    748K  fg root     /sbin/adbd
+ 1522  0   4% S    75 1403980K  89432K  fg system   system_server
+ 1223  0   1% S     2   8036K   2080K  fg system   /system/bin/fingerprintd
+ 1190  0   1% S     4   9224K   1712K  fg radio    /system/bin/rild
+ 1854  0   0% S    29 1289024K  45752K  fg radio    com.android.phone
+    8  0   0% S     1      0K      0K  fg root     rcu_preempt
+    4  0   0% S     1      0K      0K  fg root     kworker/0:0
+ 3624  0   0% R     1   3980K   1320K  fg root     top
+    7  0   0% S     1      0K      0K  fg root     migration/0
+   13  1   0% S     1      0K      0K  fg root     kworker/1:0
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+   15  1   0% S     1      0K      0K  fg root     khelper
+   16  1   0% S     1      0K      0K  fg root     kworker/u4:1
+  300  1   0% S     1      0K      0K  fg root     writeback
+  302  1   0% S     1      0K      0K  fg root     bioset
+^C
+130|root@generic_x86:/ #   

@@ -1,0 +1,1 @@
+Once we start playing the music and close the application, our music is played due to the use of service

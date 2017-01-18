@@ -1,0 +1,120 @@
+
+C:\Users\situser\AppData\Local\Android\sdk\platform-tools>adb shell
+root@generic_x86:/ # ps
+USER      PID   PPID  VSIZE  RSS   WCHAN            PC  NAME
+root      1     0     2964   1036  SyS_epoll_ 08124915 S /init
+root      2     0     0      0       kthreadd 00000000 S kthreadd
+root      3     2     0      0     smpboot_th 00000000 S ksoftirqd/0
+root      4     2     0      0     worker_thr 00000000 S kworker/0:0
+root      5     2     0      0     worker_thr 00000000 S kworker/0:0H
+root      6     2     0      0     worker_thr 00000000 S kworker/u4:0
+root      7     2     0      0     smpboot_th 00000000 S migration/0
+root      8     2     0      0     rcu_gp_kth 00000000 S rcu_preempt
+root      9     2     0      0     rcu_gp_kth 00000000 S rcu_bh
+root      10    2     0      0     rcu_gp_kth 00000000 S rcu_sched
+root      11    2     0      0     smpboot_th 00000000 S migration/1
+root      12    2     0      0     smpboot_th 00000000 S ksoftirqd/1
+root      13    2     0      0     worker_thr 00000000 S kworker/1:0
+root      14    2     0      0     worker_thr 00000000 S kworker/1:0H
+root      15    2     0      0     rescuer_th 00000000 S khelper
+root      16    2     0      0     worker_thr 00000000 S kworker/u4:1
+root      300   2     0      0     rescuer_th 00000000 S writeback
+root      302   2     0      0     rescuer_th 00000000 S bioset
+root      304   2     0      0     rescuer_th 00000000 S kblockd
+root      386   2     0      0     rescuer_th 00000000 S ata_sff
+root      397   2     0      0     hub_thread 00000000 S khubd
+root      406   2     0      0     rescuer_th 00000000 S md
+root      415   2     0      0     worker_thr 00000000 S kworker/0:1
+root      416   2     0      0     rescuer_th 00000000 S cfg80211
+root      525   2     0      0         kswapd 00000000 S kswapd0
+root      593   2     0      0     fsnotify_m 00000000 S fsnotify_mark
+root      612   2     0      0     rescuer_th 00000000 S crypto
+root      632   2     0      0     worker_thr 00000000 S kworker/1:1
+root      643   2     0      0     worker_thr 00000000 S kworker/u4:2
+root      732   2     0      0     rescuer_th 00000000 S iscsi_eh
+root      746   2     0      0     scsi_error 00000000 S scsi_eh_0
+root      749   2     0      0     scsi_error 00000000 S scsi_eh_1
+root      752   2     0      0     worker_thr 00000000 S kworker/u4:3
+root      784   2     0      0     rescuer_th 00000000 S uether
+root      796   2     0      0     worker_thr 00000000 S kworker/0:2
+root      803   2     0      0     rescuer_th 00000000 S dm_bufio_cache
+root      833   2     0      0     rescuer_th 00000000 S binder
+root      852   2     0      0     rescuer_th 00000000 S deferwq
+root      866   1     2704   632   poll_sched 0810bd20 S /sbin/ueventd
+root      1156  2     0      0     worker_thr 00000000 S kworker/0:1H
+root      1157  2     0      0     kjournald2 00000000 S jbd2/vda-8
+root      1158  2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      1160  2     0      0     kjournald2 00000000 S jbd2/vdb-8
+root      1161  2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      1165  2     0      0     kjournald2 00000000 S jbd2/vdc-8
+root      1166  2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+logd      1167  1     13328  2732  sigsuspend b74fb801 S /system/bin/logd
+root      1168  1     11244  2520  hrtimer_na b72b1cc1 S /system/bin/vold
+root      1170  2     0      0     worker_thr 00000000 S kworker/1:1H
+root      1175  2     0      0     kauditd_th 00000000 S kauditd
+root      1179  1     2528   352   SyS_epoll_ 080971d5 S /sbin/healthd
+root      1180  1     4076   1196  SyS_epoll_ b76c9d35 S /system/bin/lmkd
+system    1181  1     4144   1308  binder_thr b754a3b6 S /system/bin/servicemana
+ger
+system    1182  1     55016  3712  SyS_epoll_ b7489d35 S /system/bin/surfaceflin
+ger
+shell     1186  1     4084   1424  n_tty_read b7563c46 S /system/bin/sh
+root      1187  1     11308  716   poll_sched 0808eb55 S /sbin/adbd
+root      1188  1     16308  2108  hrtimer_na b7375cc1 S /system/bin/netd
+root      1189  1     4164   1160  __skb_recv b7526d63 S /system/bin/debuggerd
+radio     1190  1     9224   1712  hrtimer_na b75d1cc1 S /system/bin/rild
+drm       1191  1     16480  3960  binder_thr b73f93b6 S /system/bin/drmserver
+media     1192  1     130832 9836  binder_thr b6f213b6 S /system/bin/mediaserver
+
+root      1193  1     4236   1428  unix_strea b75b6c46 S /system/bin/installd
+keystore  1194  1     7600   2252  binder_thr b73593b6 S /system/bin/keystore
+root      1195  1     1253052 53352 poll_sched b739cbc0 S zygote
+system    1196  1     7028   2072  binder_thr b743d3b6 S /system/bin/gatekeeperd
+
+root      1221  1     4008   1172  hrtimer_na b74b7cc1 S /system/xbin/perfprofd
+system    1223  1     8036   2080  binder_thr b751d3b6 S /system/bin/fingerprint
+d
+system    1522  1195  1406088 89036 SyS_epoll_ b739dd35 S system_server
+media_rw  1600  1168  7668   1872  inotify_re b75bec46 S /system/bin/sdcard
+u0_a14    1617  1195  1317536 71424 SyS_epoll_ b739dd35 S com.android.systemui
+u0_a15    1800  1195  1299164 30328 SyS_epoll_ b739dd35 S com.google.android.goo
+glequicksearchbox:interactor
+u0_a35    1817  1195  1272660 37432 SyS_epoll_ b739dd35 S com.android.inputmetho
+d.latin
+u0_a8     1831  1195  1422364 71400 SyS_epoll_ b739dd35 S com.google.android.gms
+.persistent
+radio     1854  1195  1289288 46068 SyS_epoll_ b739dd35 S com.android.phone
+u0_a15    1863  1195  1338068 61788 SyS_epoll_ b739dd35 S com.google.android.goo
+glequicksearchbox
+u0_a8     1918  1195  1267456 32760 SyS_epoll_ b739dd35 S com.google.process.gap
+ps
+u0_a3     1938  1195  1267836 37428 SyS_epoll_ b739dd35 S android.process.acore
+u0_a40    1968  1195  1260796 28096 SyS_epoll_ b739dd35 S com.android.music
+u0_a6     1995  1195  1264904 34164 SyS_epoll_ b739dd35 S android.process.media
+u0_a15    2021  1195  1336068 52484 SyS_epoll_ b739dd35 S com.google.android.goo
+glequicksearchbox:search
+u0_a8     2139  1195  1576684 82772 binder_thr b739c3b6 S com.google.android.gms
+
+u0_a39    2178  1195  1331864 45784 SyS_epoll_ b739dd35 S com.google.android.app
+s.maps
+u0_a4     2275  1195  1260092 25844 SyS_epoll_ b739dd35 S com.android.defcontain
+er
+system    2290  1195  1272768 26240 SyS_epoll_ b739dd35 S com.android.settings
+u0_a59    2350  1195  1281260 38380 SyS_epoll_ b739dd35 S example.com.examplepro
+ject
+u0_a21    2373  1195  1272388 29036 SyS_epoll_ b739dd35 S com.android.calendar
+u0_a25    2391  1195  1266684 30100 SyS_epoll_ b739dd35 S com.android.deskclock
+u0_a1     2404  1195  1262820 30040 SyS_epoll_ b739dd35 S com.android.providers.
+calendar
+root      2424  1187  3924   1336  __skb_recv b752a713 S logcat
+root      2431  2     0      0     worker_thr 00000000 S kworker/1:2
+system    2446  1195  1259908 24608 SyS_epoll_ b739dd35 S com.android.keychain
+u0_a5     2453  1195  1267248 26836 SyS_epoll_ b739dd35 S com.android.dialer
+u0_a9     2490  1195  1260612 24920 SyS_epoll_ b739dd35 S com.android.managedpro
+visioning
+u0_a29    2557  1195  1277404 34080 SyS_epoll_ b739dd35 S com.android.email
+u0_a31    2571  1195  1267476 27548 SyS_epoll_ b739dd35 S com.android.exchange
+u0_a50    2593  1195  1274268 40748 SyS_epoll_ b739dd35 S com.android.messaging
+root      2626  1187  4084   1420  sigsuspend b7540801 S /system/bin/sh
+u0_a44    2735  1195  1258292 23824 SyS_epoll_ b739dd35 S com.svox.pico
+root      2846  2626  3980   1104           0 b755dc46 R ps

@@ -1,0 +1,300 @@
+  324  3   0% S     1   7140K    804K unk root     /system/bin/dpmd
+  325  3   0% S     3   7732K    580K unk system   /system/bin/cnss-daemon
+  326  2   0% S     1   3728K    592K unk gps      /system/bin/loc_launcher
+  328  3   0% S     1      0K      0K  fg root     kworker/3:1H
+  329  2   0% S     4  10488K   1144K unk system   /system/bin/ATFWD-daemon
+  332  1   0% S     1   1968K    436K unk system   /system/bin/psensord
+  336  2   0% S     3   7920K   4392K unk media_rw /system/bin/sdcard
+  337  1   0% S     6  52064K  11872K unk camera   /system/bin/mm-qcamera-daemon
+
+  338  3   0% S     5   9880K    892K unk system   /system/bin/time_daemon
+  339  1   0% S     3  17428K   1264K unk system   /system/bin/audiod
+  340  1   0% S     2  53660K   3028K unk system   /system/bin/mm-pp-daemon
+  351  1   0% S     8  16512K    856K unk system   /system/bin/qseecomd
+  363  0   0% S     1      0K      0K  fg root     irq/321-mbhc sw
+  364  0   0% S     1      0K      0K  fg root     irq/319-Button
+  365  0   0% S     1      0K      0K  fg root     irq/318-Button
+  366  0   0% S     1      0K      0K  fg root     irq/317-Elect I
+  367  0   0% S     1      0K      0K  fg root     irq/320-Elect R
+  368  0   0% S     1      0K      0K  fg root     irq/324-HPH_L O
+  369  0   0% S     1      0K      0K  fg root     irq/323-HPH_R O
+  406  0   0% S     1   8024K    900K unk system   /system/bin/imsdatadaemon
+  429  0   0% S     2   7384K    868K unk radio    /system/bin/qmuxd
+  458  3   0% S     1   3608K    564K unk system   /system/bin/vm_bms
+  468  0   0% S     6 2101640K  17756K unk root     zygote64
+  485  1   0% S    15  44584K   4512K unk radio    /system/bin/rild
+  487  1   0% S     2   9524K   1500K unk system   /system/bin/dpmd
+  497  2   0% S     8  15572K   1620K unk radio    /system/bin/netmgrd
+  579  3   0% S    23 1578516K  54720K  fg system   com.coloros.safecenter
+  745  1   0% S     1      0K      0K  fg root     IPCRTR
+  758  2   0% S     1      0K      0K  fg root     kworker/2:3
+  770  1   0% S     1      0K      0K  fg root     wcnss_IPCRTR
+ 1740  2   0% S     1      0K      0K unk root     VosWDThread
+ 1742  0   0% S     1      0K      0K unk root     VosMCThread
+ 1743  0   0% S     1      0K      0K unk root     VosTXThread
+ 1745  1   0% S     1      0K      0K unk root     wlan_logging_th
+ 1746  0   0% S     2  12344K   3352K unk wifi     /system/bin/wpa_supplicant
+ 2412  3   0% S    20 1560116K  39164K  fg u0_a7    android.process.media
+ 2423  3   0% S    15 2198424K  21368K unk u0_a24   com.google.android.googlequi
+cksearchbox:interactor
+ 2576  2   0% S     3   4840K   1132K unk media_rw /system/bin/sdcard
+ 3408  3   0% S     3   4112K    400K unk root     /system/bin/perfd
+ 7039  0   0% S    31 1610272K  50036K  fg u0_a18   com.oppo.music
+ 7066  0   0% S    15 1550096K  14756K  fg u0_a18   com.oppo.music:MusicPlayer
+ 7197  1   0% S     1   1052K    376K unk root     /system/bin/br_app_data_servi
+ce
+10699  2   0% S    13 2110244K  28900K  bg system   com.coloros.usbselection
+12874  0   0% S     1      0K      0K  fg root     irq/288-7864900
+12968  2   0% S    27 1581008K  33532K  bg u0_a53   com.oppo.camera
+13234  1   0% S     1      0K      0K  fg root     kworker/1:2
+13570  0   0% S    17 1531104K  26768K  bg u0_a7    com.android.providers.downlo
+ads
+14026  0   0% S    19 2123624K  28372K  bg u0_a9    com.google.process.gapps
+14230  3   0% S     1      0K      0K  fg root     kworker/3:1
+14241  2   0% S    13 2112688K  25304K  bg u0_a45   com.cleanmaster.sdk:bg.clean
+
+14573  3   0% S    17 1537412K  23144K  bg u0_a5    android.process.acore
+14805  2   0% S     1      0K      0K  fg root     kworker/2:1
+14819  1   0% S    25 2184548K  69732K  bg system   com.android.settings
+14970  2   0% S    15 1532708K  19992K  bg u0_a46   com.coloros.alarmclock
+15552  2   0% S    24 2125628K  30216K  bg u0_a51   com.android.dlna.service
+15630  3   0% S    15 1545460K  24640K  bg system   com.coloros.safecenter:task
+16243  1   0% S     1      0K      0K  fg root     kworker/u8:1
+16392  3   0% S    13 2111896K  22580K  fg u0_a120  com.oppo.service.account
+16409  1   0% S    18 2116916K  31952K  fg system   com.coloros.oppoguardelf
+16427  1   0% S    16 1559392K  25544K  fg u0_a5    android.process.contacts
+16450  2   0% S    17 2116148K  29460K  fg system   com.coloros.exserviceui
+16468  1   0% S    14 2116656K  26328K  fg system   com.oppo.marketcheck
+16488  0   0% S    16 2120320K  36008K  fg system   com.coloros.simsettings
+16545  0   0% S    13 2110480K  22848K  bg system   com.coloros.newsimdetect
+16566  1   0% S    14 2111844K  34916K  bg u0_a28   com.mobilesystemservice.andr
+oid
+16604  2   0% S    14 2120736K  28556K  bg u0_a81   com.nearme.sync
+16664  2   0% S    16 2114260K  30220K  bg system   com.coloros.sau
+16682  0   0% S    14 2168964K  41608K  bg u0_a103  com.google.android.apps.phot
+os
+16744  3   0% S     1   2192K    648K unk dhcp     /system/bin/dhcpcd
+16893  0   0% S     1      0K      0K  fg root     kworker/u8:2
+16894  0   0% S     1      0K      0K  fg root     kworker/u8:3
+16913  1   0% S    13 2114392K  25136K  bg system   com.colors.simplevisitormode
+
+17013  0   0% S    14 1539932K  21152K  bg u0_a95   com.coloros.weather
+17034  2   0% S    15 1535536K  25432K  bg u0_a17   com.coloros.gallery3d
+17168  0   0% S    23 1579428K  57724K  fg u0_a74   com.oppo.launcher
+17212  3   0% S    15 1576036K  31048K  bg u0_a43   com.android.chrome
+17393  1   0% S    14 2111832K  27228K  fg system   com.coloros.notificationmana
+ger
+17532  0   0% S     1      0K      0K  fg root     kworker/0:0
+17608  0   0% S    39 2233888K  85080K  bg u0_a24   com.google.android.googlequi
+cksearchbox:search
+17635  1   0% S    14 2111696K  25068K  bg u0_a12   com.google.android.partnerse
+tup
+17791  0   0% S     1      0K      0K  fg root     kworker/0:2
+17901  0   0% S     1      0K      0K  fg root     kworker/0:1
+17943  1   0% S    13 2110764K  22084K  fg u0_a61   com.gnss.power
+17977  0   0% S     1      0K      0K  fg root     kworker/0:3
+18034  0   0% S    16 2170720K  37612K  bg u0_a9    com.google.android.gms.ui
+18100  0   0% S     1      0K      0K  fg root     irq/13-synaptic
+18122  3   0% S    20 2126736K  34332K  fg u0_a13   com.android.keyguard
+18196  1   0% S     6   5960K    528K unk shell    /sbin/adbd
+18201  0   0% S     1      0K      0K  fg root     kworker/0:4
+18215  0   0% S     1   2096K    628K unk shell    logcat
+18302  0   0% S    14 2111016K  24444K  bg u0_a6    com.android.defcontainer
+18334  0   0% S    40 2178752K  44712K  bg u0_a19   com.android.vending
+18358  0   0% S    24 2199164K  54872K  bg u0_a54   com.google.android.apps.docs
+
+18468  0   0% S    16 2140472K  43696K  bg u0_a159  course.lab.exampleapp
+18582  3   0% S    28 2208564K  57124K  bg u0_a66   com.google.android.talk
+18631  1   0% S    13 2167520K  36104K  bg u0_a9    com.google.android.gms.feedb
+ack
+18678  3   0% S     1      0K      0K  fg root     kworker/3:0
+18684  0   0% S     1   2316K    772K unk shell    /system/bin/sh
+19108  3   0% S     1      0K      0K  fg root     kworker/3:4
+24384  3   0% S    78 2247608K  74628K  fg u0_a9    com.google.android.gms.persi
+stent
+25570  1   0% S    17 1560204K  16632K  bg u0_a136  com.instagram.android:igplay
+er
+29072  1   0% S    16 2115908K  28900K  bg u0_a83   com.oppo.ota
+30346  0   0% S    75 1752104K 161056K  bg u0_a135  com.whatsapp
+30458  2   0% S    48 2408984K 120632K  fg u0_a9    com.google.android.gms
+32416  3   0% S    16 2115528K  30308K  fg system   com.nearme.romupdate
+32439  2   0% S    17 1547796K  24488K  fg system   com.coloros.safecenter:clear
+_filter
+32460  0   0% S    13 2110192K  27272K  fg system   com.coloros.appmanager
+32478  3   0% S    16 2113732K  20624K  fg u0_a91   com.oppo.gestureservice
+32496  2   0% S    14 2111248K  30248K  fg system   com.oppo.resmonitor
+32513  3   0% S    16 2115796K  22812K  fg u0_a50   se.dirac.acs
+32530  3   0% S    18 2115860K  21312K  fg u0_a89   com.oppo.dirac
+32581  1   0% S    17 2114932K  26196K  fg system   com.quicinc.cne.CNEService
+32724  1   0% S    15 2114420K  34400K  fg system   com.coloros.recents
+  175  0   0% S     1      0K      0K  fg root     msm_cpp_workque
+    2  0   0% S     1      0K      0K  fg root     kthreadd
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+    5  0   0% S     1      0K      0K  fg root     kworker/0:0H
+    6  1   0% D     1      0K      0K  fg root     kworker/u8:0
+    7  0   0% S     1      0K      0K  fg root     migration/0
+    8  0   0% S     1      0K      0K unk root     rcu_preempt
+    9  0   0% S     1      0K      0K unk root     rcu_bh
+   10  1   0% S     1      0K      0K unk root     rcu_sched
+   11  1   0% S     1      0K      0K  fg root     migration/1
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+   14  1   0% S     1      0K      0K  fg root     kworker/1:0H
+^C
+130|shell@A37f:/ $ top -m 10
+
+
+
+User 11%, System 1%, IOW 0%, IRQ 0%
+User 155 + Nice 0 + Sys 18 + Idle 1171 + IOW 0 + IRQ 0 + SIRQ 0 = 1344
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+18693  1   0% R     1   4412K   1388K unk shell    top
+32607  1   0% S    44 2230376K  80776K  fg system   com.android.systemui
+ 1096  2   0% S   124 2516344K 178184K unk system   system_server
+17168  0   0% S    23 1583132K  57820K  fg u0_a74   com.oppo.launcher
+  271  0   0% S    17 118232K   9644K unk system   /system/bin/surfaceflinger
+18122  2   0% S    20 2126736K  34332K  fg u0_a13   com.android.keyguard
+  336  2   0% S     3   7920K   4392K unk media_rw /system/bin/sdcard
+32439  0   0% S    17 1547796K  24488K  fg system   com.coloros.safecenter:clear
+_filter
+  177  0   0% S     1      0K      0K  fg root     cfinteractive
+21134  0   0% S   133 1730956K  84704K  bg u0_a118  com.emoji.keyboard.touchpal
+
+
+
+User 11%, System 1%, IOW 0%, IRQ 0%
+User 152 + Nice 0 + Sys 26 + Idle 1166 + IOW 0 + IRQ 0 + SIRQ 0 = 1344
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+18693  1   0% R     1   4420K   1420K unk shell    top
+ 1096  0   0% S   124 2516344K 178184K unk system   system_server
+32607  0   0% S    44 2230416K  80824K  fg system   com.android.systemui
+  271  0   0% S    17 118232K   9644K unk system   /system/bin/surfaceflinger
+17013  0   0% S    14 1539932K  21056K  bg u0_a95   com.coloros.weather
+21134  0   0% S   133 1730956K  84704K  bg u0_a118  com.emoji.keyboard.touchpal
+14819  0   0% S    25 2184548K  69888K  bg system   com.android.settings
+18215  1   0% S     1   2096K    628K unk shell    logcat
+ 1744  0   0% S     1      0K      0K unk root     VosRXThread
+   11  1   0% S     1      0K      0K  fg root     migration/1
+
+
+
+User 12%, System 1%, IOW 0%, IRQ 0%
+User 170 + Nice 0 + Sys 21 + Idle 1163 + IOW 0 + IRQ 0 + SIRQ 1 = 1355
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+18693  0   0% R     1   4420K   1420K unk shell    top
+32607  0   0% S    44 2230496K  80868K  fg system   com.android.systemui
+ 1096  0   0% S   124 2516344K 178184K unk system   system_server
+ 1744  1   0% S     1      0K      0K unk root     VosRXThread
+21134  0   0% S   133 1730956K  84704K  bg u0_a118  com.emoji.keyboard.touchpal
+24384  1   0% S    78 2247608K  74628K  fg u0_a9    com.google.android.gms.persi
+stent
+16893  1   0% S     1      0K      0K  fg root     kworker/u8:2
+16894  0   0% S     1      0K      0K  fg root     kworker/u8:3
+17532  0   0% S     1      0K      0K  fg root     kworker/0:0
+32460  0   0% S    13 2110192K  27272K  fg system   com.coloros.appmanager
+
+
+
+User 15%, System 3%, IOW 0%, IRQ 0%
+User 203 + Nice 1 + Sys 50 + Idle 1067 + IOW 7 + IRQ 0 + SIRQ 4 = 1332
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 7039  1   2% S    33 1626704K  50896K  fg u0_a18   com.oppo.music
+ 1096  0   1% S   124 2516344K 178216K unk system   system_server
+  271  0   1% S    17 118232K   9672K unk system   /system/bin/surfaceflinger
+18693  1   0% R     1   4420K   1420K unk shell    top
+17168  1   0% S    22 1574740K  57864K  bg u0_a74   com.oppo.launcher
+32607  1   0% S    44 2230496K  80868K  fg system   com.android.systemui
+ 2678  0   0% S    63 2224396K  56204K unk radio    com.android.phone
+18088  0   0% D     1      0K      0K  fg root     mdss_fb0
+  269  1   0% S     1   2496K    600K unk system   /system/bin/servicemanager
+  307  2   0% S     7  19672K   1520K  fg drm      /system/bin/drmserver
+
+
+
+User 12%, System 1%, IOW 0%, IRQ 0%
+User 160 + Nice 1 + Sys 16 + Idle 1158 + IOW 0 + IRQ 0 + SIRQ 0 = 1335
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+18693  1   0% R     1   4420K   1420K unk shell    top
+ 7039  1   0% S    33 1626728K  50896K  fg u0_a18   com.oppo.music
+ 1096  2   0% S   124 2516344K 178216K unk system   system_server
+32607  1   0% S    44 2230548K  80900K  fg system   com.android.systemui
+  271  0   0% S    17 118232K   9672K unk system   /system/bin/surfaceflinger
+21134  0   0% S   133 1730956K  84768K  bg u0_a118  com.emoji.keyboard.touchpal
+ 7066  0   0% S    15 1550096K  14756K  fg u0_a18   com.oppo.music:MusicPlayer
+14819  0   0% S    25 2184548K  69888K  bg system   com.android.settings
+10699  0   0% S    13 2110244K  28900K  bg system   com.coloros.usbselection
+   36  0   0% D     1      0K      0K  fg root     kworker/u9:0
+
+
+
+User 13%, System 3%, IOW 0%, IRQ 0%
+User 183 + Nice 1 + Sys 51 + Idle 1080 + IOW 10 + IRQ 0 + SIRQ 2 = 1327
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1096  3   2% S   124 2415208K 160056K unk system   system_server
+17168  0   0% S    23 1579056K  56936K  fg u0_a74   com.oppo.launcher
+  271  2   0% R    17 125600K   9676K unk system   /system/bin/surfaceflinger
+ 7039  1   0% S    32 1612004K  50996K  fg u0_a18   com.oppo.music
+18693  1   0% R     1   4420K   1420K unk shell    top
+32607  2   0% S    44 2230548K  81160K  fg system   com.android.systemui
+21134  1   0% S   133 1730956K  84844K  bg u0_a118  com.emoji.keyboard.touchpal
+17013  0   0% S    14 1539932K  21180K  bg u0_a95   com.coloros.weather
+ 1744  0   0% S     1      0K      0K unk root     VosRXThread
+  269  0   0% S     1   2496K    600K unk system   /system/bin/servicemanager
+
+
+
+User 12%, System 1%, IOW 0%, IRQ 0%
+User 166 + Nice 2 + Sys 23 + Idle 1143 + IOW 0 + IRQ 0 + SIRQ 1 = 1335
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1096  0   1% S   124 2415208K 160096K unk system   system_server
+18693  1   0% R     1   4420K   1420K unk shell    top
+32607  2   0% S    44 2230588K  81192K  fg system   com.android.systemui
+  271  0   0% S    17 118232K   9572K unk system   /system/bin/surfaceflinger
+21134  1   0% S   133 1730956K  84844K  bg u0_a118  com.emoji.keyboard.touchpal
+   12  1   0% S     1      0K      0K  fg root     ksoftirqd/1
+  115  1   0% S     1      0K      0K unk root     khungtaskd
+18196  0   0% S     6   5960K    528K unk shell    /sbin/adbd
+ 1744  0   0% S     1      0K      0K unk root     VosRXThread
+18215  1   0% S     1   2096K    628K unk shell    logcat
+
+
+
+User 12%, System 1%, IOW 0%, IRQ 0%
+User 165 + Nice 0 + Sys 18 + Idle 1161 + IOW 2 + IRQ 0 + SIRQ 1 = 1347
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+18693  1   0% R     1   4420K   1420K unk shell    top
+ 1096  0   0% S   124 2415208K 157320K unk system   system_server
+32607  0   0% S    44 2230628K  81216K  fg system   com.android.systemui
+17013  0   0% S    14 1539932K  21076K  bg u0_a95   com.coloros.weather
+ 1744  0   0% S     1      0K      0K unk root     VosRXThread
+ 2678  0   0% S    63 2224396K  56204K unk radio    com.android.phone
+  177  0   0% S     1      0K      0K  fg root     cfinteractive
+ 1742  3   0% S     1      0K      0K unk root     VosMCThread
+16488  2   0% S    16 2120320K  36068K  fg system   com.coloros.simsettings
+21134  1   0% S   133 1730956K  84844K  bg u0_a118  com.emoji.keyboard.touchpal
+
+
+
+User 13%, System 1%, IOW 0%, IRQ 0%
+User 175 + Nice 1 + Sys 18 + Idle 1148 + IOW 3 + IRQ 0 + SIRQ 2 = 1347
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+32607  0   1% R    44 2227004K  78760K  fg system   com.android.systemui
+18693  1   0% R     1   4420K   1420K unk shell    top
+ 1096  2   0% S   124 2415208K 157536K unk system   system_server
+30346  0   0% S    76 1753568K 162752K  bg u0_a135  com.whatsapp
+ 1744  0   0% S     1      0K      0K unk root     VosRXThread
+18122  1   0% S    20 2138232K  36256K  fg u0_a13   com.android.keyguard
+  269  3   0% S     1   2496K    600K unk system   /system/bin/servicemanager
+21134  1   0% S   133 1730956K  84844K  bg u0_a118  com.emoji.keyboard.touchpal
+16893  3   0% S     1      0K      0K  fg root     kworker/u8:2
+17168  0   0% S    23 1579056K  56960K  fg u0_a74   com.oppo.launcher
+^C
+130|shell@A37f:/ $
